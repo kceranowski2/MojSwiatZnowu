@@ -1,0 +1,37 @@
+Organizmy dzielą się na zwierzęta i rośliny.
+Zwierzęta dzielą się na roślinożerne i mięsożerne.
+Rośliny na małe i drzewa.
+
+Łańcuch pokarmowy:
+Rośliny małe -> roślinożerne -> mięsożerne -> drzewa
+Drzewa będą rozsiewać się powoli, w wymuszonym odstępie od siebie, ale z większą łatwością na terenach, które wcześniej użyźniła padlina, jednak będą żyły bardzo długo.
+
+Zwierzęta będą miały zasięg wzroku i skanują teren przed wykonaniem swojej tury. Najpewniej będzie on delikatnie większy dla drapieżników.
+Ich priorytetami są kolejno zagrożenie, głód, gotowość godowa.
+
+Bedą także żyły odpowiednią długość życia, ktorą dostosuję eksperymentalnie pod koniec projektu. Dodatkowo, gdy będą młode, będą miały większe trudności w obronie przed drapieżnikami oraz podążać będą za dorosłymi osobnikami zamiast kręcić się losowo.
+
+Głód oraz gotowość godowa będą rosły co turę u wszystkich zwierząt.
+Gotowość godowa, po przekroczeniu odpowiedniego poziomu, będzie powodowała szukanie drugiego osobnika swojego gatunku, który też posiada dość wysoką gotowość godową (oczywiście tylko pod warunkiem, że zwierzę nie jest głodne ani nie widzi drapieżnika). Gdy będą bezpośrednio obok siebie, a wokół nich będzie co najmniej jedno wolne pole, to pojawi się obok nowy osobnik, a gotowość godowa rodziców spadnie do zera.
+
+System walki będzie dawał drapieżnikowi dużą szansę na zabicie samotnej ofiary, jednakże jeśli w bezpośredniej bliskości zaatakowanego osobnika znajdują się zwierzęta tego samego gatunku, istnieje szansa na zniwelowanie ataku bądź przekierowanie go na atakującego.
+Przy słabszym wyniku losowania ofiara zamiast paść trupem otrzyma efekt krwawienia.
+Krwawienie sprawiać będzie, że ofiara na początku swojej tury będzie losować czy nie umarła z wykrwawienia.
+Każde kolejne losowanie będzie zmniejszało szansę na wykrwawienie w następnej turze, aż w końcu  efekt zniknie.
+Zamierzam dać 70% szans na śmierć przy maksymalnym krwawieniu, które znikałoby przez okres 8 tur.
+Ponadto, jeśli w bezpośredniej bliskości zaatakowanego osobnika znajdują się towarzysze jego gatunku, istnieje szansa na przekierowanie ataku drapieżcy na jego samego.
+
+Martwe zwierzęta będą się zmieniać w padlinę, jednak zachowywać właściwość gatunkową, a więc nie zrobię z nich kanibali :)
+Natomiast roślinożercy będą jedli trawę, która będzie regenerować się przez pewien czas. 
+
+Zwierzęta będą szukać możliwości ucieczki przed drapieżcą, niektóre będą mogły chować się na drzewach.
+
+Technicznie będę utrzymywał obiekty zwierząt i roślin w osobnych tablicach.
+Natomiast mapa świata będzie tablicą trójwymiarową z dwoma osobnymi poziomami na rośliny i zwierzęta.
+
+Zdążyłem napisać podstawy oraz skanowanie terenu wokół zwierzęcia, po czym zacząłem zajmować się graficzną częścią projektu, ze strachu przed sytuacją, w której stworzyłbym coś, czego nie byłbym w stanie przekształcić na wyświetlanie graficzne, na którym bardzo mi zależy.
+
+Idąc zgodnie z kursem internetowym, zamierzam dorobić menu główne oraz ustawienia, dzięki którym można będzie dobrać wielkość mapy symulacji oraz ilość umiejscowionych na początku zwierząt oraz roślin.
+
+Wymienione wyżej mechaniki chciałbym zaimplementować jako minimum przed oddaniem projektu.
+
